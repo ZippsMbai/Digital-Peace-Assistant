@@ -1,0 +1,9 @@
+streamlit==1.27.0
+pandas
+numpy
+plotly
+transformers
+torch
+sentencepiece
+pyngrok
+requests
