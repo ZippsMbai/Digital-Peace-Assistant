@@ -1,0 +1,15 @@
+ilri-digital-peace-assistant/
+│
+├── app.py
+├── requirements.txt
+├── sample_data/
+│   └── sample_narratives.csv
+├── utils/
+│   ├── nlp_models.py
+│   ├── chatbot.py
+│   └── visualizer.py
+├── assets/
+│   └── ilri_logo.png
+├── README.md
+└── .streamlit/
+    └── config.toml
